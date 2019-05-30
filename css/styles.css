@@ -1,0 +1,18 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column ul {
+  color: red;
+  font-style: italic;
+}
+
+.my-class {
+  border: 2px black;
+}
+
+img {
+  height: 35%;
+  float: left;
+}
