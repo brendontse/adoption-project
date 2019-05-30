@@ -1,15 +1,12 @@
 .column {
   width: 300px;
   float: left;
+  border: solid black 2px;
 }
 
 .column ul {
   color: red;
   font-style: italic;
-}
-
-.my-class {
-  border: 2px black;
 }
 
 img {
